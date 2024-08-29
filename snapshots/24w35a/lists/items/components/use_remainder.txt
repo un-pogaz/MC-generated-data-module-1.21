@@ -1,0 +1,7 @@
+minecraft:beetroot_soup
+minecraft:honey_bottle
+minecraft:milk_bucket
+minecraft:mushroom_stew
+minecraft:potion
+minecraft:rabbit_stew
+minecraft:suspicious_stew
