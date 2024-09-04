@@ -16,7 +16,7 @@ minecraft:cooked_porkchop
 minecraft:cooked_rabbit
 minecraft:cooked_salmon
 minecraft:cookie
-minecraft:dried_kelp  = {consume_seconds: 0.8}
+minecraft:dried_kelp
 minecraft:enchanted_golden_apple
 minecraft:glow_berries
 minecraft:golden_apple
