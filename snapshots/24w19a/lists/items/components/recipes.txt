@@ -1,1 +1,1 @@
-minecraft:knowledge_book
+minecraft:knowledge_book  = []

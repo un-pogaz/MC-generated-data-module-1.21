@@ -1,43 +1,43 @@
-minecraft:apple
-minecraft:baked_potato
-minecraft:beef
-minecraft:beetroot
-minecraft:beetroot_soup
-minecraft:bread
-minecraft:carrot
-minecraft:chicken
-minecraft:chorus_fruit
-minecraft:cod
-minecraft:cooked_beef
-minecraft:cooked_chicken
-minecraft:cooked_cod
-minecraft:cooked_mutton
-minecraft:cooked_porkchop
-minecraft:cooked_rabbit
-minecraft:cooked_salmon
-minecraft:cookie
-minecraft:dried_kelp
-minecraft:enchanted_golden_apple
-minecraft:glow_berries
-minecraft:golden_apple
-minecraft:golden_carrot
-minecraft:honey_bottle
-minecraft:melon_slice
-minecraft:milk_bucket
-minecraft:mushroom_stew
-minecraft:mutton
-minecraft:ominous_bottle
-minecraft:poisonous_potato
-minecraft:porkchop
-minecraft:potato
-minecraft:potion
-minecraft:pufferfish
-minecraft:pumpkin_pie
-minecraft:rabbit
-minecraft:rabbit_stew
-minecraft:rotten_flesh
-minecraft:salmon
-minecraft:spider_eye
-minecraft:suspicious_stew
-minecraft:sweet_berries
-minecraft:tropical_fish
+minecraft:apple  = {}
+minecraft:baked_potato  = {}
+minecraft:beef  = {}
+minecraft:beetroot  = {}
+minecraft:beetroot_soup  = {}
+minecraft:bread  = {}
+minecraft:carrot  = {}
+minecraft:chicken  = {{value}}
+minecraft:chorus_fruit  = {{value}}
+minecraft:cod  = {}
+minecraft:cooked_beef  = {}
+minecraft:cooked_chicken  = {}
+minecraft:cooked_cod  = {}
+minecraft:cooked_mutton  = {}
+minecraft:cooked_porkchop  = {}
+minecraft:cooked_rabbit  = {}
+minecraft:cooked_salmon  = {}
+minecraft:cookie  = {}
+minecraft:dried_kelp  = {{value}}
+minecraft:enchanted_golden_apple  = {{value}}
+minecraft:glow_berries  = {}
+minecraft:golden_apple  = {{value}}
+minecraft:golden_carrot  = {}
+minecraft:honey_bottle  = {{value}}
+minecraft:melon_slice  = {}
+minecraft:milk_bucket  = {{value}}
+minecraft:mushroom_stew  = {}
+minecraft:mutton  = {}
+minecraft:ominous_bottle  = {{value}}
+minecraft:poisonous_potato  = {{value}}
+minecraft:porkchop  = {}
+minecraft:potato  = {}
+minecraft:potion  = {{value}}
+minecraft:pufferfish  = {{value}}
+minecraft:pumpkin_pie  = {}
+minecraft:rabbit  = {}
+minecraft:rabbit_stew  = {}
+minecraft:rotten_flesh  = {{value}}
+minecraft:salmon  = {}
+minecraft:spider_eye  = {{value}}
+minecraft:suspicious_stew  = {}
+minecraft:sweet_berries  = {}
+minecraft:tropical_fish  = {}

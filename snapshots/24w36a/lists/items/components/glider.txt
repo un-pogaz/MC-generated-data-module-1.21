@@ -1,1 +1,1 @@
-minecraft:elytra
+minecraft:elytra  = {}

@@ -1,56 +1,56 @@
-minecraft:black_carpet
-minecraft:blue_carpet
-minecraft:brown_carpet
-minecraft:carved_pumpkin
-minecraft:chainmail_boots
-minecraft:chainmail_chestplate
-minecraft:chainmail_helmet
-minecraft:chainmail_leggings
-minecraft:creeper_head
-minecraft:cyan_carpet
-minecraft:diamond_boots
-minecraft:diamond_chestplate
-minecraft:diamond_helmet
-minecraft:diamond_horse_armor
-minecraft:diamond_leggings
-minecraft:dragon_head
-minecraft:elytra
-minecraft:golden_boots
-minecraft:golden_chestplate
-minecraft:golden_helmet
-minecraft:golden_horse_armor
-minecraft:golden_leggings
-minecraft:gray_carpet
-minecraft:green_carpet
-minecraft:iron_boots
-minecraft:iron_chestplate
-minecraft:iron_helmet
-minecraft:iron_horse_armor
-minecraft:iron_leggings
-minecraft:leather_boots
-minecraft:leather_chestplate
-minecraft:leather_helmet
-minecraft:leather_horse_armor
-minecraft:leather_leggings
-minecraft:light_blue_carpet
-minecraft:light_gray_carpet
-minecraft:lime_carpet
-minecraft:magenta_carpet
-minecraft:netherite_boots
-minecraft:netherite_chestplate
-minecraft:netherite_helmet
-minecraft:netherite_leggings
-minecraft:orange_carpet
-minecraft:piglin_head
-minecraft:pink_carpet
-minecraft:player_head
-minecraft:purple_carpet
-minecraft:red_carpet
-minecraft:shield
-minecraft:skeleton_skull
-minecraft:turtle_helmet
-minecraft:white_carpet
-minecraft:wither_skeleton_skull
-minecraft:wolf_armor
-minecraft:yellow_carpet
-minecraft:zombie_head
+minecraft:black_carpet  = {{value}}
+minecraft:blue_carpet  = {{value}}
+minecraft:brown_carpet  = {{value}}
+minecraft:carved_pumpkin  = {{value}}
+minecraft:chainmail_boots  = {{value}}
+minecraft:chainmail_chestplate  = {{value}}
+minecraft:chainmail_helmet  = {{value}}
+minecraft:chainmail_leggings  = {{value}}
+minecraft:creeper_head  = {{value}}
+minecraft:cyan_carpet  = {{value}}
+minecraft:diamond_boots  = {{value}}
+minecraft:diamond_chestplate  = {{value}}
+minecraft:diamond_helmet  = {{value}}
+minecraft:diamond_horse_armor  = {{value}}
+minecraft:diamond_leggings  = {{value}}
+minecraft:dragon_head  = {{value}}
+minecraft:elytra  = {{value}}
+minecraft:golden_boots  = {{value}}
+minecraft:golden_chestplate  = {{value}}
+minecraft:golden_helmet  = {{value}}
+minecraft:golden_horse_armor  = {{value}}
+minecraft:golden_leggings  = {{value}}
+minecraft:gray_carpet  = {{value}}
+minecraft:green_carpet  = {{value}}
+minecraft:iron_boots  = {{value}}
+minecraft:iron_chestplate  = {{value}}
+minecraft:iron_helmet  = {{value}}
+minecraft:iron_horse_armor  = {{value}}
+minecraft:iron_leggings  = {{value}}
+minecraft:leather_boots  = {{value}}
+minecraft:leather_chestplate  = {{value}}
+minecraft:leather_helmet  = {{value}}
+minecraft:leather_horse_armor  = {{value}}
+minecraft:leather_leggings  = {{value}}
+minecraft:light_blue_carpet  = {{value}}
+minecraft:light_gray_carpet  = {{value}}
+minecraft:lime_carpet  = {{value}}
+minecraft:magenta_carpet  = {{value}}
+minecraft:netherite_boots  = {{value}}
+minecraft:netherite_chestplate  = {{value}}
+minecraft:netherite_helmet  = {{value}}
+minecraft:netherite_leggings  = {{value}}
+minecraft:orange_carpet  = {{value}}
+minecraft:piglin_head  = {{value}}
+minecraft:pink_carpet  = {{value}}
+minecraft:player_head  = {{value}}
+minecraft:purple_carpet  = {{value}}
+minecraft:red_carpet  = {{value}}
+minecraft:shield  = {{value}}
+minecraft:skeleton_skull  = {{value}}
+minecraft:turtle_helmet  = {{value}}
+minecraft:white_carpet  = {{value}}
+minecraft:wither_skeleton_skull  = {{value}}
+minecraft:wolf_armor  = {{value}}
+minecraft:yellow_carpet  = {{value}}
+minecraft:zombie_head  = {{value}}

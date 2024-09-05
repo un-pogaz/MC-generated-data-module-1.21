@@ -1,41 +1,41 @@
-minecraft:apple
-minecraft:baked_potato
-minecraft:beef
-minecraft:beetroot
-minecraft:beetroot_soup
-minecraft:bread
-minecraft:carrot
-minecraft:chicken
-minecraft:chorus_fruit
-minecraft:cod
-minecraft:cooked_beef
-minecraft:cooked_chicken
-minecraft:cooked_cod
-minecraft:cooked_mutton
-minecraft:cooked_porkchop
-minecraft:cooked_rabbit
-minecraft:cooked_salmon
-minecraft:cookie
-minecraft:dried_kelp
-minecraft:enchanted_golden_apple
-minecraft:glow_berries
-minecraft:golden_apple
-minecraft:golden_carrot
-minecraft:honey_bottle
-minecraft:melon_slice
-minecraft:mushroom_stew
-minecraft:mutton
-minecraft:ominous_bottle
-minecraft:poisonous_potato
-minecraft:porkchop
-minecraft:potato
-minecraft:pufferfish
-minecraft:pumpkin_pie
-minecraft:rabbit
-minecraft:rabbit_stew
-minecraft:rotten_flesh
-minecraft:salmon
-minecraft:spider_eye
-minecraft:suspicious_stew
-minecraft:sweet_berries
-minecraft:tropical_fish
+minecraft:apple  = {{value}}
+minecraft:baked_potato  = {{value}}
+minecraft:beef  = {{value}}
+minecraft:beetroot  = {{value}}
+minecraft:beetroot_soup  = {{value}}
+minecraft:bread  = {{value}}
+minecraft:carrot  = {{value}}
+minecraft:chicken  = {{value}}
+minecraft:chorus_fruit  = {{value}}
+minecraft:cod  = {{value}}
+minecraft:cooked_beef  = {{value}}
+minecraft:cooked_chicken  = {{value}}
+minecraft:cooked_cod  = {{value}}
+minecraft:cooked_mutton  = {{value}}
+minecraft:cooked_porkchop  = {{value}}
+minecraft:cooked_rabbit  = {{value}}
+minecraft:cooked_salmon  = {{value}}
+minecraft:cookie  = {{value}}
+minecraft:dried_kelp  = {{value}}
+minecraft:enchanted_golden_apple  = {{value}}
+minecraft:glow_berries  = {{value}}
+minecraft:golden_apple  = {{value}}
+minecraft:golden_carrot  = {{value}}
+minecraft:honey_bottle  = {{value}}
+minecraft:melon_slice  = {{value}}
+minecraft:mushroom_stew  = {{value}}
+minecraft:mutton  = {{value}}
+minecraft:ominous_bottle  = {{value}}
+minecraft:poisonous_potato  = {{value}}
+minecraft:porkchop  = {{value}}
+minecraft:potato  = {{value}}
+minecraft:pufferfish  = {{value}}
+minecraft:pumpkin_pie  = {{value}}
+minecraft:rabbit  = {{value}}
+minecraft:rabbit_stew  = {{value}}
+minecraft:rotten_flesh  = {{value}}
+minecraft:salmon  = {{value}}
+minecraft:spider_eye  = {{value}}
+minecraft:suspicious_stew  = {{value}}
+minecraft:sweet_berries  = {{value}}
+minecraft:tropical_fish  = {{value}}

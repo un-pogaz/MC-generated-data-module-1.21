@@ -1,1 +1,1 @@
-minecraft:suspicious_stew
+minecraft:suspicious_stew  = []

@@ -1,1 +1,1 @@
-minecraft:bundle
+minecraft:bundle  = []

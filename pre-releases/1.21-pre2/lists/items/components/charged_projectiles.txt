@@ -1,1 +1,1 @@
-minecraft:crossbow
+minecraft:crossbow  = []

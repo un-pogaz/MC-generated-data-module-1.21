@@ -1,4 +1,4 @@
-minecraft:lingering_potion
-minecraft:potion
-minecraft:splash_potion
-minecraft:tipped_arrow
+minecraft:lingering_potion  = {}
+minecraft:potion  = {}
+minecraft:splash_potion  = {}
+minecraft:tipped_arrow  = {}

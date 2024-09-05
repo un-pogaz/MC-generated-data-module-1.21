@@ -1,1 +1,1 @@
-minecraft:writable_book
+minecraft:writable_book  = {}
