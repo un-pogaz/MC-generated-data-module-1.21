@@ -1,0 +1,4 @@
+sound_events: minecraft:music.game, minecraft:music.overworld.badlands, minecraft:music.overworld.bamboo_jungle, minecraft:music.overworld.desert, minecraft:music.overworld.dripstone_caves, minecraft:music.overworld.flower_forest, minecraft:music.overworld.forest, minecraft:music.overworld.frozen_peaks, minecraft:music.overworld.jungle, minecraft:music.overworld.meadow, minecraft:music.overworld.old_growth_taiga, minecraft:music.overworld.sparse_jungle, minecraft:music.overworld.stony_peaks
+assets: minecraft:music/game/danny
+title: Danny
+author: C418

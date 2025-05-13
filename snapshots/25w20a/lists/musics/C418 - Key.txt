@@ -1,0 +1,4 @@
+sound_events: minecraft:music.game, minecraft:music.overworld.badlands, minecraft:music.overworld.bamboo_jungle, minecraft:music.overworld.desert, minecraft:music.overworld.dripstone_caves, minecraft:music.overworld.flower_forest, minecraft:music.overworld.forest, minecraft:music.overworld.grove, minecraft:music.overworld.jagged_peaks, minecraft:music.overworld.jungle, minecraft:music.overworld.old_growth_taiga, minecraft:music.overworld.sparse_jungle
+assets: minecraft:music/game/key
+title: Key
+author: C418

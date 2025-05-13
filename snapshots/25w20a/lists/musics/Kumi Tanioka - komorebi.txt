@@ -1,0 +1,4 @@
+sound_events: minecraft:music.game
+assets: minecraft:music/game/komorebi
+title: komorebi
+author: Kumi Tanioka

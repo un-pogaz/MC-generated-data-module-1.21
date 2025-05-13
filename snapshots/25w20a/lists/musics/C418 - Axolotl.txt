@@ -1,0 +1,4 @@
+sound_events: minecraft:music.under_water
+assets: minecraft:music/game/water/axolotl
+title: Axolotl
+author: C418

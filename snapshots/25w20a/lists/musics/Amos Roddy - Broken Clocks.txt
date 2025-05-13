@@ -1,0 +1,4 @@
+sound_events: minecraft:music.game, minecraft:music.menu, minecraft:music.overworld.forest
+assets: minecraft:music/game/broken_clocks
+title: Broken Clocks
+author: Amos Roddy

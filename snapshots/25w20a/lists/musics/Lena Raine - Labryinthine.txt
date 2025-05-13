@@ -1,0 +1,4 @@
+sound_events: minecraft:music.overworld.forest, minecraft:music.overworld.lush_caves, minecraft:music.overworld.old_growth_taiga, minecraft:music.overworld.swamp
+assets: minecraft:music/game/swamp/labyrinthine
+title: Labryinthine
+author: Lena Raine

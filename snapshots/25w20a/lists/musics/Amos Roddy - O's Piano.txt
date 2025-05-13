@@ -1,0 +1,4 @@
+sound_events: minecraft:music.game, minecraft:music.menu, minecraft:music.overworld.lush_caves
+assets: minecraft:music/game/os_piano
+title: O's Piano
+author: Amos Roddy

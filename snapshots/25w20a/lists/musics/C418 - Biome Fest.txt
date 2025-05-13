@@ -1,0 +1,4 @@
+sound_events: minecraft:music.creative
+assets: minecraft:music/game/creative/biome_fest
+title: Biome Fest
+author: C418

@@ -1,0 +1,4 @@
+sound_events: minecraft:music.game, minecraft:music.overworld.badlands, minecraft:music.overworld.desert, minecraft:music.overworld.forest, minecraft:music.overworld.lush_caves, minecraft:music.overworld.meadow, minecraft:music.overworld.old_growth_taiga, minecraft:music.overworld.snowy_slopes
+assets: minecraft:music/game/one_more_day
+title: One More Day
+author: Lena Raine

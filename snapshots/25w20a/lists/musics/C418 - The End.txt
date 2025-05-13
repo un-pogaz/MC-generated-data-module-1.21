@@ -1,0 +1,4 @@
+sound_events: minecraft:music.end
+assets: minecraft:music/game/end/the_end
+title: The End
+author: C418

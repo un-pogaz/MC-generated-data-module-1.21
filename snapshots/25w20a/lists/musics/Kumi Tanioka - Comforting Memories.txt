@@ -1,0 +1,4 @@
+sound_events: minecraft:music.game, minecraft:music.overworld.forest, minecraft:music.overworld.grove, minecraft:music.overworld.old_growth_taiga
+assets: minecraft:music/game/comforting_memories
+title: Comforting Memories
+author: Kumi Tanioka

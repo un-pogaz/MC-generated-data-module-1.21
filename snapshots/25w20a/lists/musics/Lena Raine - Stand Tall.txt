@@ -1,0 +1,4 @@
+sound_events: minecraft:music.overworld.frozen_peaks, minecraft:music.overworld.jagged_peaks, minecraft:music.overworld.snowy_slopes, minecraft:music.overworld.stony_peaks
+assets: minecraft:music/game/stand_tall
+title: Stand Tall
+author: Lena Raine

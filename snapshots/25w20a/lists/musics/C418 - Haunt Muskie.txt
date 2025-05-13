@@ -1,0 +1,4 @@
+sound_events: minecraft:music.creative
+assets: minecraft:music/game/creative/haunt_muskie
+title: Haunt Muskie
+author: C418
