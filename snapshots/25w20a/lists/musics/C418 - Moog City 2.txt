@@ -1,4 +1,0 @@
-sound_events: minecraft:music.menu
-assets: minecraft:music/menu/moog_city_2
-title: Moog City 2
-author: C418

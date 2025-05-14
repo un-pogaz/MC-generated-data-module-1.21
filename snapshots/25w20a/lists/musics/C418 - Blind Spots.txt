@@ -1,4 +1,0 @@
-sound_events: minecraft:music.creative
-assets: minecraft:music/game/creative/blind_spots
-title: Blind Spots
-author: C418

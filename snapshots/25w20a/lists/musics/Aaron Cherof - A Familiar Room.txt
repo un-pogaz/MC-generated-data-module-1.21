@@ -1,4 +1,0 @@
-sound_events: minecraft:music.game
-assets: minecraft:music/game/a_familiar_room
-title: A Familiar Room
-author: Aaron Cherof

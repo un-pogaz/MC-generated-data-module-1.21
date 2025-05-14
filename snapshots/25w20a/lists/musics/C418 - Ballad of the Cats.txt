@@ -1,4 +1,0 @@
-sound_events: minecraft:music.nether.basalt_deltas, minecraft:music.nether.crimson_forest, minecraft:music.nether.nether_wastes, minecraft:music.nether.soul_sand_valley
-assets: minecraft:music/game/nether/ballad_of_the_cats
-title: Ballad of the Cats
-author: C418

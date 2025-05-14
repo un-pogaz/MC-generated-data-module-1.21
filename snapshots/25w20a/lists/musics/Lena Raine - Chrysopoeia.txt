@@ -1,4 +1,0 @@
-sound_events: minecraft:music.nether.crimson_forest
-assets: minecraft:music/game/nether/crimson_forest/chrysopoeia
-title: Chrysopoeia
-author: Lena Raine

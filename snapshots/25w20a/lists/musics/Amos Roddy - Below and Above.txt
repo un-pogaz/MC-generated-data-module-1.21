@@ -1,4 +1,0 @@
-sound_events: minecraft:music.game, minecraft:music.menu, minecraft:music.overworld.cherry_grove
-assets: minecraft:music/game/below_and_above
-title: Below and Above
-author: Amos Roddy

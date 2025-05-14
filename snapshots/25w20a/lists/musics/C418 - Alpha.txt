@@ -1,4 +1,0 @@
-sound_events: minecraft:music.credits
-assets: minecraft:music/game/end/alpha
-title: Alpha
-author: C418

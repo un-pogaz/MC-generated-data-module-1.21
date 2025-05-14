@@ -1,4 +1,0 @@
-sound_events: minecraft:music.overworld.dripstone_caves, minecraft:music.overworld.grove, minecraft:music.overworld.jagged_peaks, minecraft:music.overworld.stony_peaks
-assets: minecraft:music/game/eld_unknown
-title: Eld Unknown
-author: Lena Raine

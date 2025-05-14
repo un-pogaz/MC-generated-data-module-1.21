@@ -1,4 +1,0 @@
-sound_events: minecraft:music.overworld.dripstone_caves, minecraft:music.overworld.lush_caves, minecraft:music.overworld.snowy_slopes
-assets: minecraft:music/game/an_ordinary_day
-title: An Ordinary Day
-author: Kumi Tanioka

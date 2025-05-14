@@ -1,4 +1,0 @@
-sound_events: minecraft:music.game, minecraft:music.overworld.badlands, minecraft:music.overworld.cherry_grove, minecraft:music.overworld.flower_forest, minecraft:music.overworld.lush_caves
-assets: minecraft:music/game/featherfall
-title: Featherfall
-author: Aaron Cherof

@@ -1,4 +1,0 @@
-sound_events: minecraft:music.game
-assets: minecraft:music/game/puzzlebox
-title: Puzzlebox
-author: Aaron Cherof

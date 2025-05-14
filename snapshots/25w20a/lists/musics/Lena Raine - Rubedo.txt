@@ -1,4 +1,0 @@
-sound_events: minecraft:music.nether.nether_wastes
-assets: minecraft:music/game/nether/nether_wastes/rubedo
-title: Rubedo
-author: Lena Raine

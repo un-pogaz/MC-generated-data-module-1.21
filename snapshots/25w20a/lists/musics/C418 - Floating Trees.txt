@@ -1,4 +1,0 @@
-sound_events: minecraft:music.menu
-assets: minecraft:music/menu/floating_trees
-title: Floating Trees
-author: C418

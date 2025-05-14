@@ -1,4 +1,0 @@
-sound_events: minecraft:music.game, minecraft:music.overworld.cherry_grove, minecraft:music.overworld.forest, minecraft:music.overworld.grove, minecraft:music.overworld.lush_caves, minecraft:music.overworld.old_growth_taiga
-assets: minecraft:music/game/clark
-title: Clark
-author: C418

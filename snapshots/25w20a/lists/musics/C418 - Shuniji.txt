@@ -1,4 +1,0 @@
-sound_events: minecraft:music.under_water
-assets: minecraft:music/game/water/shuniji
-title: Shuniji
-author: C418

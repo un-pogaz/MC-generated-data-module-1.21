@@ -1,4 +1,0 @@
-sound_events: minecraft:music.dragon
-assets: minecraft:music/game/end/boss
-title: Boss
-author: C418

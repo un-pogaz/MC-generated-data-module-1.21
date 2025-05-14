@@ -1,4 +1,0 @@
-sound_events: minecraft:music.menu
-assets: minecraft:music/menu/beginning_2
-title: Beginning 2
-author: C418

@@ -1,4 +1,0 @@
-sound_events: minecraft:music.game, minecraft:music.overworld.badlands, minecraft:music.overworld.bamboo_jungle, minecraft:music.overworld.forest, minecraft:music.overworld.frozen_peaks, minecraft:music.overworld.jagged_peaks, minecraft:music.overworld.jungle, minecraft:music.overworld.old_growth_taiga, minecraft:music.overworld.sparse_jungle, minecraft:music.overworld.stony_peaks
-assets: minecraft:music/game/wet_hands
-title: Wet Hands
-author: C418

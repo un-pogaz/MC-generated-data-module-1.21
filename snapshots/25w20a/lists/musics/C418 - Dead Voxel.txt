@@ -1,4 +1,0 @@
-sound_events: minecraft:music.nether.basalt_deltas, minecraft:music.nether.crimson_forest, minecraft:music.nether.nether_wastes, minecraft:music.nether.soul_sand_valley
-assets: minecraft:music/game/nether/dead_voxel
-title: Dead Voxel
-author: C418

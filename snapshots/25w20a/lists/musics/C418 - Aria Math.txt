@@ -1,4 +1,0 @@
-sound_events: minecraft:music.creative
-assets: minecraft:music/game/creative/aria_math
-title: Aria Math
-author: C418
